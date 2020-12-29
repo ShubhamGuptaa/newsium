@@ -1,8 +1,21 @@
-# news_app
+Newsium
 
-A new Flutter project.
+FlutterNewsApp
+
 
 ## Getting Started
+
+Installation
+
+[flutter pub get Usage]
+
+flutter 
+
+[run]
+
+In Flutter News App we will load top headlines on the home page and we have categories option to see top headlines based on categories
+
+## New to Flutter
 
 This project is a starting point for a Flutter application.
 
